@@ -1,8 +1,8 @@
 Binary Search:-
-
-
-
-
+1) Search in Rotated Sorted array
+check which half is sorted and then check weather element exist in it or not else go other side until element is not found.
+2) Find Minimum in rotated sorted array
+check which half is sorted and take its minimum and then move to other half and do it till search space exist.
 
 
 
